@@ -1,0 +1,27 @@
+{
+  "name": "helloworld",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prettier": "^2.8.3",
+    "solid-js": "^1.6.9"
+  },
+  "devDependencies": {
+    "eslint": "^8.32.0",
+    "eslint-plugin-solid": "^0.9.3",
+    "vite": "^4.0.3",
+    "vite-plugin-solid": "^2.5.0",
+    "vite-plugin-windicss": "^1.8.10",
+    "windicss": "^3.5.6"
+  }
+}
